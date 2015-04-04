@@ -1,0 +1,38 @@
+.my-tagsinput
+{
+	font-size: 75%;
+	font-weight: 700%;
+	font-family: 'Open Sans',sans-serif;
+	border: 1px solid #D8D8D8;
+	border-radius: 0.4em 0.4em 0.4em 0.4em;
+	padding: 0.2em 0.3em 0.2em 0.3em;
+	margin: 0.4em 0em 0.4em 0em;
+	cursor: text;
+}
+
+.my-tagsinput input
+{
+	border: none;
+	box-shadow: none;
+	outline: none;
+	padding: 0;
+	margin: 0;
+	max-width: inherit;
+}
+
+.tag
+{
+	background-color: #2E9AFE;
+	margin: 0em 0.2em 0em 0.2em;
+	padding: 0em 0.5em 0em 0.5em;
+	border-radius: 0.2em 0.2em 0.2em 0.2em;
+	color: white;
+	cursor: auto;
+}
+
+.remove
+{
+	margin-left: 0.4em;
+	font-weight: bold;
+	cursor: pointer;
+}

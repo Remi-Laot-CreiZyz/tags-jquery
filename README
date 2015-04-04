@@ -1,0 +1,9 @@
+UTILISATION
+---------------------------------
+
+Pour utiliser cet input, ajoutez simplement l'attribut [data-role="tagsinput"] à un input de type text.
+
+example:
+<input type="text" data-role="tagsinput"/>
+
+Vous pourrez ensuite accéder à la valeur de l'input grâce à la méthode .val() du framework jQuery.
